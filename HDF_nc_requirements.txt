@@ -1,6 +1,6 @@
-numpy
+numpynumpy<2.1.0,>=1.26.0
 xarray
-pandas
+pandas==2.2.2
 h5netcdf
 netcdf4
 h5py
